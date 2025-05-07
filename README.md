@@ -40,7 +40,7 @@ reminderping-demo/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/reminderping-demo.git
+git clone https://github.com/taasbaba/reminderPing.git
 cd reminderping-demo
 ```
 
