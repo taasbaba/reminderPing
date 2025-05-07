@@ -1,0 +1,76 @@
+# ================================
+# Build Output
+# ================================
+/dist
+/build
+**/node_modules/
+**/dist
+**/build
+
+# ================================
+# Logs
+# ================================
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ================================
+# OS / Editor / IDE Files
+# ================================
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# ================================
+# Tests & Coverage
+# ================================
+/coverage
+/.nyc_output
+
+# ================================
+# Docker
+# ================================
+docker-data/
+pgdata/
+redis-data/
+
+# ================================
+# Runtime Data / PIDs
+# ================================
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ================================
+# Diagnostic Reports
+# ================================
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# ================================
+# Temporary Files
+# ================================
+.temp/
+.tmp/
+generate/
+
+# ================================
+# Environment Variables
+# ================================
+.env
+.env.*
+!.env.example
