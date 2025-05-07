@@ -4,8 +4,7 @@ A simple SaaS-style reminder system that lets users schedule pings via log, WebS
 
 ## Demo
 
-> Live Frontend: https://your-vercel-url.vercel.app  
-> Live API (Render): https://your-backend-url.onrender.com
+> Live Frontend: https://reminder-ping.vercel.app/ 
 
 ## Tech Stack
 
